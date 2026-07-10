@@ -25,23 +25,32 @@ jobs:
       - name: Set branch name
         id: vars
         run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
-      - uses: actions/checkout@v3
+      
+      - name: Checkout code
+        uses: actions/checkout@v3
         with:
           ref: ${{ env.BRANCH_NAME }}
+          persist-credentials: false  # ✅ 核心修改1：禁用 GitHub 默认注入的 Token，防止它干扰我们的自定义 PAT
+
       - name: Run with setup-python 3.13
         uses: actions/setup-python@v4
         with:
           python-version: '3.13'
           update-environment: true
           cache: 'pipenv'
+
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
       - name: Install pipenv
         run: pip3 install --user pipenv
+
       - name: Install dependecies
         run: pipenv --python 3.13 && pipenv install --deploy
+
       - name: Update
         run: pipenv run dev
+
       - name: Commit and push if changed
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -49,5 +58,7 @@ jobs:
           git add .
           if ! git diff --staged --quiet; then
             git commit -m "Github Action Auto Updated"
-            git push https://${{ secrets.PAT }}@github.com/wangliangjingok/iptv-api.git --force
+            # ✅ 核心修改2：先设置远程 URL 注入您的 PAT，避免复杂格式导致解析失败，然后明确推送目标分支
+            git remote set-url origin https://${{ secrets.PAT }}@github.com/wangliangjingok/iptv-api.git
+            git push origin ${{ env.BRANCH_NAME }} --force
           fi
