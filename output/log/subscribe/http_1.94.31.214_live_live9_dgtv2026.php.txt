@@ -1,69 +1,69 @@
 å¤®è§é¢,#group#
 å¤®è§,#genre#,#PB=playseek={start|yyyyMMddHHmmss}-{end|yyyyMMddHHmmss}
-CCTV-1 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv1
-CCTV-2 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv2
-CCTV-3 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv3
-CCTV-4 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv4
-CCTV-5 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv5
-CCTV-5 + é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv5p
-CCTV-6 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv6
-CCTV-7 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv7
-CCTV-8 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv8
-CCTV-9 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv9
-CCTV-10 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv10
-CCTV-11 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv11
-CCTV-12 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv12
-CCTV-13 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv13
-CCTV-14 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv14
-CCTV-15 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv15
-CCTV-16 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv16
-CCTV-16(4K),http://43.226.38.166:89/dglive/ysp.php?id=cctv164k
-CCTV-17 é«æ¸,http://43.226.38.166:89/dglive/ysp.php?id=cctv17
-CCTV-4K,http://43.226.38.166:89/dglive/ysp.php?id=cctv4k
-CCTV-8K,http://43.226.38.166:89/dglive/ysp.php?id=cctv8k
-CGTN,http://43.226.38.166:89/dglive/ysp.php?id=cgtn
-CGTN æ³è¯­é¢é,http://43.226.38.166:89/dglive/ysp.php?id=cgtnfy
-CGTN ä¿è¯­é¢é,http://43.226.38.166:89/dglive/ysp.php?id=cgtney
-CGTN é¿æä¼¯è¯­é¢é,http://43.226.38.166:89/dglive/ysp.php?id=cgtnalby
-CGTN è¥¿ç­çè¯­é¢é,http://43.226.38.166:89/dglive/ysp.php?id=cgtnxby
-CGTN å¤è¯­çºªå½é¢é,http://43.226.38.166:89/dglive/ysp.php?id=cgtnwyjl
-CCTV é£äºå§åºé¢é,http://43.226.38.166:89/dglive/ysp.php?id=cctvfyjc
-CCTV ç¬¬ä¸å§åºé¢é,http://43.226.38.166:89/dglive/ysp.php?id=cctvdyjc
-CCTV ææ§å§åºé¢é,http://43.226.38.166:89/dglive/ysp.php?id=cctvhjjc
+CCTV-1 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv1
+CCTV-2 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv2
+CCTV-3 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv3
+CCTV-4 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv4
+CCTV-5 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv5
+CCTV-5 + é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv5p
+CCTV-6 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv6
+CCTV-7 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv7
+CCTV-8 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv8
+CCTV-9 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv9
+CCTV-10 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv10
+CCTV-11 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv11
+CCTV-12 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv12
+CCTV-13 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv13
+CCTV-14 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv14
+CCTV-15 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv15
+CCTV-16 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv16
+CCTV-16(4K),http://101.200.122.188/dglive/ysp.php?id=cctv164k
+CCTV-17 é«æ¸,http://101.200.122.188/dglive/ysp.php?id=cctv17
+CCTV-4K,http://101.200.122.188/dglive/ysp.php?id=cctv4k
+CCTV-8K,http://101.200.122.188/dglive/ysp.php?id=cctv8k
+CGTN,http://101.200.122.188/dglive/ysp.php?id=cgtn
+CGTN æ³è¯­é¢é,http://101.200.122.188/dglive/ysp.php?id=cgtnfy
+CGTN ä¿è¯­é¢é,http://101.200.122.188/dglive/ysp.php?id=cgtney
+CGTN é¿æä¼¯è¯­é¢é,http://101.200.122.188/dglive/ysp.php?id=cgtnalby
+CGTN è¥¿ç­çè¯­é¢é,http://101.200.122.188/dglive/ysp.php?id=cgtnxby
+CGTN å¤è¯­çºªå½é¢é,http://101.200.122.188/dglive/ysp.php?id=cgtnwyjl
+CCTV é£äºå§åºé¢é,http://101.200.122.188/dglive/ysp.php?id=cctvfyjc
+CCTV ç¬¬ä¸å§åºé¢é,http://101.200.122.188/dglive/ysp.php?id=cctvdyjc
+CCTV ææ§å§åºé¢é,http://101.200.122.188/dglive/ysp.php?id=cctvhjjc
 å«è§,#genre#,#PB=playseek={start|yyyyMMddHHmmss}-{end|yyyyMMddHHmmss}
-åäº¬å«è§,http://43.226.38.166:89/dglive/ysp.php?id=bjws
-æ±èå«è§,http://43.226.38.166:89/dglive/ysp.php?id=jsws
-ä¸æ¹å«è§,http://43.226.38.166:89/dglive/ysp.php?id=dfws
-æµæ±å«è§,http://43.226.38.166:89/dglive/ysp.php?id=zjws
-æ¹åå«è§,http://43.226.38.166:89/dglive/ysp.php?id=hnws
-æ¹åå«è§,http://43.226.38.166:89/dglive/ysp.php?id=hbws
-å¹¿ä¸å«è§,http://43.226.38.166:89/dglive/ysp.php?id=gdws
-å¹¿è¥¿å«è§,http://43.226.38.166:89/dglive/ysp.php?id=gxws
-é»é¾æ±å«è§,http://43.226.38.166:89/dglive/ysp.php?id=hljws
-æµ·åå«è§,http://43.226.38.166:89/dglive/ysp.php?id=hnws2
-éåºå«è§,http://43.226.38.166:89/dglive/ysp.php?id=cqws
-æ·±å³å«è§,http://43.226.38.166:89/dglive/ysp.php?id=szws
-åå·å«è§,http://43.226.38.166:89/dglive/ysp.php?id=scws
-æ²³åå«è§,http://43.226.38.166:89/dglive/ysp.php?id=henanws
-ç¦å»ºä¸åå«è§,http://43.226.38.166:89/dglive/ysp.php?id=fjdnhz
-è´µå·å«è§,http://43.226.38.166:89/dglive/ysp.php?id=gzhws
-æ±è¥¿å«è§,http://43.226.38.166:89/dglive/ysp.php?id=jxws
-è¾½å®å«è§,http://43.226.38.166:89/dglive/ysp.php?id=lnws
-å®å¾½å«è§,http://43.226.38.166:89/dglive/ysp.php?id=ahws
-æ²³åå«è§,http://43.226.38.166:89/dglive/ysp.php?id=hbws2
-å±±ä¸å«è§,http://43.226.38.166:89/dglive/ysp.php?id=sdws
-å¤©æ´¥å«è§,http://43.226.38.166:89/dglive/ysp.php?id=tjws
-åæå«è§,http://43.226.38.166:89/dglive/ysp.php?id=jlws
-éè¥¿å«è§,http://43.226.38.166:89/dglive/ysp.php?id=shanxiws
-å®å¤å«è§,http://43.226.38.166:89/dglive/ysp.php?id=nxws
-åèå¤å«è§,http://43.226.38.166:89/dglive/ysp.php?id=nmgws
-äºåå«è§,http://43.226.38.166:89/dglive/ysp.php?id=ynws
-å±±è¥¿å«è§,http://43.226.38.166:89/dglive/ysp.php?id=shanxiws2
-éæµ·å«è§,http://43.226.38.166:89/dglive/ysp.php?id=qhws
-è¥¿èå«è§,http://43.226.38.166:89/dglive/ysp.php?id=xzws
-ä¸­å½æè²çµè§å° 1 é¢é,http://43.226.38.166:89/dglive/ysp.php?id=cetv1
-å½å­¦é¢é,http://43.226.38.166:89/dglive/ysp.php?id=gxpd
-æ°çå«è§,http://43.226.38.166:89/dglive/ysp.php?id=xjws
+åäº¬å«è§,http://101.200.122.188/dglive/ysp.php?id=bjws
+æ±èå«è§,http://101.200.122.188/dglive/ysp.php?id=jsws
+ä¸æ¹å«è§,http://101.200.122.188/dglive/ysp.php?id=dfws
+æµæ±å«è§,http://101.200.122.188/dglive/ysp.php?id=zjws
+æ¹åå«è§,http://101.200.122.188/dglive/ysp.php?id=hnws
+æ¹åå«è§,http://101.200.122.188/dglive/ysp.php?id=hbws
+å¹¿ä¸å«è§,http://101.200.122.188/dglive/ysp.php?id=gdws
+å¹¿è¥¿å«è§,http://101.200.122.188/dglive/ysp.php?id=gxws
+é»é¾æ±å«è§,http://101.200.122.188/dglive/ysp.php?id=hljws
+æµ·åå«è§,http://101.200.122.188/dglive/ysp.php?id=hnws2
+éåºå«è§,http://101.200.122.188/dglive/ysp.php?id=cqws
+æ·±å³å«è§,http://101.200.122.188/dglive/ysp.php?id=szws
+åå·å«è§,http://101.200.122.188/dglive/ysp.php?id=scws
+æ²³åå«è§,http://101.200.122.188/dglive/ysp.php?id=henanws
+ç¦å»ºä¸åå«è§,http://101.200.122.188/dglive/ysp.php?id=fjdnhz
+è´µå·å«è§,http://101.200.122.188/dglive/ysp.php?id=gzhws
+æ±è¥¿å«è§,http://101.200.122.188/dglive/ysp.php?id=jxws
+è¾½å®å«è§,http://101.200.122.188/dglive/ysp.php?id=lnws
+å®å¾½å«è§,http://101.200.122.188/dglive/ysp.php?id=ahws
+æ²³åå«è§,http://101.200.122.188/dglive/ysp.php?id=hbws2
+å±±ä¸å«è§,http://101.200.122.188/dglive/ysp.php?id=sdws
+å¤©æ´¥å«è§,http://101.200.122.188/dglive/ysp.php?id=tjws
+åæå«è§,http://101.200.122.188/dglive/ysp.php?id=jlws
+éè¥¿å«è§,http://101.200.122.188/dglive/ysp.php?id=shanxiws
+å®å¤å«è§,http://101.200.122.188/dglive/ysp.php?id=nxws
+åèå¤å«è§,http://101.200.122.188/dglive/ysp.php?id=nmgws
+äºåå«è§,http://101.200.122.188/dglive/ysp.php?id=ynws
+å±±è¥¿å«è§,http://101.200.122.188/dglive/ysp.php?id=shanxiws2
+éæµ·å«è§,http://101.200.122.188/dglive/ysp.php?id=qhws
+è¥¿èå«è§,http://101.200.122.188/dglive/ysp.php?id=xzws
+ä¸­å½æè²çµè§å° 1 é¢é,http://101.200.122.188/dglive/ysp.php?id=cetv1
+å½å­¦é¢é,http://101.200.122.188/dglive/ysp.php?id=gxpd
+æ°çå«è§,http://101.200.122.188/dglive/ysp.php?id=xjws
 åªåé¢é,#group#
 //åªåå¼å§
 å¤®è§,#genre#
