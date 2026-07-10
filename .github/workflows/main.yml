@@ -49,5 +49,5 @@ jobs:
           git add .
           if ! git diff --staged --quiet; then
             git commit -m "Github Action Auto Updated"
-            git push --force
+            git push https://${{ secrets.PAT }}@github.com/wangliangjing/lptv-api.git --force
           fi
