@@ -106,6 +106,10 @@ NBA赛事回放,http://rihou.cc:555/tv/NBA回放赛12
 斯赛赛事回放,http://rihou.cc:555/tv/斯赛回放赛12
 赛事咪咕,#genre#
 抖姐舞陪你看,http://rihou.cc:555/tv/t
+赛事睛彩竞技,http://bigy.timwin.top:5400/rtp/239.3.1.125:8001
+赛事睛彩篮球,http://bigy.timwin.top:5400/rtp/239.3.1.126:8001
+赛事睛彩青少,http://bigy.timwin.top:5400/rtp/239.3.1.127:8001
+赛事睛彩广场,http://bigy.timwin.top:5400/rtp/239.3.1.128:8001
 赛事睛彩竞技,http://156.233.226.200:65486/其他/睛彩竞技?cors
 赛事睛彩广场,http://156.233.226.200:65486/其他/睛彩广场舞?cors
 赛事咪咕播01,http://156.233.226.200:65486/其他/咪咕-高清赛事1?cors
