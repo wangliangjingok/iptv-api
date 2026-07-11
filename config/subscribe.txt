@@ -542,6 +542,7 @@
 # https://live.hacks.tools/tv/iptv4.m3u
 # https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
 # https://d.kstore.dev/download/11344/yunduan.txt
+ # https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
  https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
  https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
@@ -578,11 +579,6 @@ https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfac
  https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
  https://raw.githubusercontent.com/tvbw/IPTV2025/refs/heads/main/live.txt
 https://live.hacks.tools/tv/iptv4.txt
-https://gitee.com/hzxs800274/iptv/raw/master/live/TV
-https://gitee.com/lwr851/live/raw/master/iptv.m3u
-https://gitee.com/hw2837/iptv/raw/master/iptv
-https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u
-https://gitee.com/g1753462733/zb/raw/main/itvlist.txt
 http://zo.gt.tc/o/i/白菜鸟.txt
 https://d.kstore.dev/download/12441/ds9.txt
 http://1.94.31.214/live/live9/dgtv2026.php
@@ -599,12 +595,9 @@ http://1.94.31.214/live/live9/dgtv.txt
 http://117.72.68.25:9230/latest.txt
 http://west.shaonv.me/tvbox/live.txt
 http://rihou.cc:555/gggg.nzk
-https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 http://1tv.dqtx.cc
 https://gitee.com/blbj778/blb778iptv/raw/master/live.txt
 https://gitee.com/king12985/tv/raw/master/lives/20180818.txt
-https://gitee.com/lwr851/live/raw/master/iptv.m3u
-https://gitee.com/hw2837/iptv/raw/master/iptv
 https://gitee.com/king12985/tv/raw/master/lives/20180818.txt
 http://zo.gt.tc/o/i/白菜鸟.txt
 https://d.kstore.dev/download/12441/ds9.txt
@@ -618,11 +611,18 @@ http://1.94.31.214/live/live9/dgtv.txt
 http://117.72.68.25:9230/latest.txt
 http://west.shaonv.me/tvbox/live.txt
 http://rihou.cc:555/gggg.nzk
-https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 http://wangziduoqing.com/yuan/zb.txt
 https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 
- # https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
+# https://gitee.com/hzxs800274/iptv/raw/master/live/TV
+# https://gitee.com/lwr851/live/raw/master/iptv.m3u
+# https://gitee.com/hw2837/iptv/raw/master/iptv
+# https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u
+# https://gitee.com/g1753462733/zb/raw/main/itvlist.txt
+# https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
+# https://gitee.com/lwr851/live/raw/master/iptv.m3u
+# https://gitee.com/hw2837/iptv/raw/master/iptv
+# https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
