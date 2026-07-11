@@ -541,6 +541,7 @@
 # http://www.52top.com.cn:678/downloads/migu.txt
 # https://live.hacks.tools/tv/iptv4.m3u
 # https://cloud.7so.top/f/Bgw1H8/%E5%A4%A7%E6%94%B9.txt
+# https://d.kstore.dev/download/11344/yunduan.txt
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
  https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
  https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
@@ -567,7 +568,6 @@ https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interfac
  https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
  https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1
  https://raw.githubusercontent.com/nianxinmj/nxpz/refs/heads/main/lib/live.txt
- https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
  https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
  https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt
  https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
@@ -622,7 +622,7 @@ https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 http://wangziduoqing.com/yuan/zb.txt
 https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 
-# https://d.kstore.dev/download/11344/yunduan.txt
+ # https://raw.githubusercontent.com/TianmuTNT/iptv/main/iptv.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
