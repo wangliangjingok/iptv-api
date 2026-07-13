@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260713021233 +0800">
+<tv date="20260713061340 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -100,13 +100,13 @@
 		<title lang="zh">前情提要-种墨园-第24集</title>
 	</programme>
 	<programme channel="CCTV-1" start="20260713200300 +0800" stop="20260713205325 +0800">
-		<title lang="zh">种墨园24/34</title>
+		<title lang="zh">种墨园第24集</title>
 	</programme>
 	<programme channel="CCTV-1" start="20260713205325 +0800" stop="20260713205645 +0800">
 		<title lang="zh">前情提要-种墨园-第25集</title>
 	</programme>
 	<programme channel="CCTV-1" start="20260713205645 +0800" stop="20260713214505 +0800">
-		<title lang="zh">种墨园25/34</title>
+		<title lang="zh">种墨园第25集</title>
 	</programme>
 	<programme channel="CCTV-1" start="20260713214505 +0800" stop="20260713215205 +0800">
 		<title lang="zh">非遗里的中国-MV</title>
