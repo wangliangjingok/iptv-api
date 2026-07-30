@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-29 16:48:59,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
+2026-07-30 16:06:48,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
 
 📺央视频道,#genre#
 CCTV-1 综合,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
@@ -1376,6 +1376,7 @@ iHOT爱幼教,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000000
 广州法治频道,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 
 ☘️广西频道,#genre#
+广西影视,http://mobilelive.gxtv.cn/live/nn_live1003/playlist.m3u8
 广西新闻,https://mobilelive.gxtv.cn/live/gx_live1007/playlist.m3u8
 广西新闻,https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 广西新闻,https://t.freetv.fun/live/yan-xi-xin-wen.m3u8
@@ -1607,6 +1608,7 @@ BRTV卡酷少儿,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226677/1.m3u8
 湖北影视,https://stream1.freetv.fun/hu-bei-ying-shi-1.m3u8
 湖北影视,https://stream1.freetv.fun/hu-bei-ying-shi-1.ctv
 湖北影视,https://stream1.freetv.fun/hu-bei-ying-shi-14.m3u8
+广西影视,http://mobilelive.gxtv.cn/live/nn_live1003/playlist.m3u8
 
 ☘️体育频道,#genre#
 BRTV体育休闲,http://smjdenny.eu.org:35455/bptv/10000100000000050000000003870779.m3u8
