@@ -539,6 +539,7 @@
  # https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u
 # https://live.45678888.xyz/sub?kbQyhXwA=m3u
 # http://1tv.dqtx.cc
+# https://live.445569.xyz/live.m3u
 https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
  https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
  https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
@@ -584,7 +585,6 @@ https://gitee.com/hw2837/iptv/raw/master/iptv
 https://gitee.com/szwxk/watch-television/raw/master/wxk1.m3u
 https://gitee.com/g1753462733/zb/raw/main/itvlist.txt
 https://gitee.com/king12985/tv/raw/master/lives/zhizhu/20180818china.txt
-http://zo.gt.tc/o/i/白菜鸟.txt
 https://d.kstore.dev/download/12441/ds9.txt
 http://1.94.31.214/live/live9/dgtv2026.php
 https://4key.cn/FP
@@ -607,7 +607,6 @@ https://t.freetv.fun/m3u/china_original.txt
 https://gitee.com/hw2837/iptv/raw/master/iptv
 https://gitee.com/king12985/tv/raw/master/lives/20180818.txt
 https://gitee.com/king12985/tv/raw/master/lives/zhizhu/20180818china.txt
-http://zo.gt.tc/o/i/白菜鸟.txt
 https://d.kstore.dev/download/12441/ds9.txt
 http://1.94.31.214/live/live9/dgtv2026.php
 https://4key.cn/FP
@@ -623,7 +622,8 @@ https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 http://wangziduoqing.com/yuan/zb.txt
 https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 
-# https://live.445569.xyz/live.m3u
+# http://zo.gt.tc/o/i/白菜鸟.txt
+# http://zo.gt.tc/o/i/白菜鸟.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
