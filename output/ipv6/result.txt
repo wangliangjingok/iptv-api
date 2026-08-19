@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-17 13:32:06,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
+2026-08-19 13:50:22,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
 
 📺央视频道,#genre#
 CCTV-1 综合,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
@@ -578,12 +578,15 @@ TVBS 欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
 靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1784702901150
 靖天戲劇台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
 靖天戲劇台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1784702901150
+靖天戲劇台,https://cdn.qd.je/163189/jtxj
 靖天卡通台,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1782639885837
 靖天卡通台,http://4gtv.cnlive.club/channel/3ed78a45/index.m3u8?q=1784702901150
 靖洋戲劇台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1782639885837
 靖洋戲劇台,http://4gtv.cnlive.club/channel/48117ce7/index.m3u8?q=1784702901150
+靖洋戲劇台,https://cdn.qd.je/163189/jyxj
 影迷數位電影台,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1782639885837
 影迷數位電影台,http://4gtv.cnlive.club/channel/n79da43c0/index.m3u8?q=1784702901150
+影迷數位電影台,https://cdn.qd.je/163189/ymswdyt
 纬来电影台,https://smt.1678520.xyz/163189/wldy
 纬来电影台,https://cdn.qd.je/163189/wldy
 纬来体育台,https://smt.1678520.xyz/163189/wlty
@@ -591,6 +594,7 @@ TVBS 欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
 博斯网球台,https://smart.dxjc.pp.ua/smart.php?id=bositennis_twn&token=tmxk
 采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1782639885837
 采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1784702901150
+采昌影劇台,https://cdn.qd.je/163189/ccyj
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-12.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-10.m3u8
