@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://ghp.keleyaa.com/https://raw.githubusercontent.com/wangliangjingok/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-08-21 13:30:26
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-08-22 14:21:29
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="📺央视频道",CCTV-1 综合
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
@@ -1057,6 +1057,10 @@ http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv109&token=xiatianshigou
 http://tv123.cc.cd/live.php?ch=2399&sid=6e74595f5d97521872bafb3c715e5413&exp=1787238227&sig=d484b20129a7fcc398acbb74d99ad55f1ac3820044455fda80646adb936d1e8a
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="./pic/logos中天亞洲台.png" group-title="🌊港·澳·台",中天亞洲台
 http://tv123.cc.cd/live.php?ch=2212&sid=6e74595f5d97521872bafb3c715e5413&exp=1787238227&sig=b901fc3bb7ead225d1c3cec640ce4733a9e64e47fdd9aaa6154dd2ed35888051
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="./pic/logos中天亞洲台.png" group-title="🌊港·澳·台",中天亞洲台
+http://tv123.cc.cd/live.php?ch=2411&sid=e9ed6da76f31820ec220e66eeb6e819f&exp=1787407888&sig=e37c4b5f49874c99cb8601e7be8759c954be7f38c29e2644b35e4d5a34af85dc
+#EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="./pic/logos中天亞洲台.png" group-title="🌊港·澳·台",中天亞洲台
+http://tv123.cc.cd/live.php?ch=2224&sid=e9ed6da76f31820ec220e66eeb6e819f&exp=1787407888&sig=b827af5c1a399b5911abbdf005dc150cce87c6aff910713fd5ea79c812995bdf
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森新闻台.png" group-title="🌊港·澳·台",东森新闻台
 https://smart.dxjc.pp.ua/smart.php?id=ettvnews&token=tmxk
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%9C%E6%A3%AE%E6%96%B0%E9%97%BB%E5%8F%B0.png" group-title="🌊港·澳·台",东森新闻台
@@ -1523,6 +1527,8 @@ https://live.chinacert.cftest5.cn/cnmg/live/619495952
 http://www.ikerobot.com:1234/619495952
 #EXTINF:-1 tvg-id="新片映厅咪咕" tvg-name="新片映厅咪咕" tvg-logo="./pic/logos新片映厅咪咕.png" group-title="☘️咪咕频道",新片映厅咪咕
 http://tv123.cc.cd/live.php?ch=2627&sid=6e74595f5d97521872bafb3c715e5413&exp=1787238227&sig=7c44a7149225e66f1a75b1c2798bf66316479d60712d6d318a99562823c57a98
+#EXTINF:-1 tvg-id="新片映厅咪咕" tvg-name="新片映厅咪咕" tvg-logo="./pic/logos新片映厅咪咕.png" group-title="☘️咪咕频道",新片映厅咪咕
+http://tv123.cc.cd/live.php?ch=2639&sid=e9ed6da76f31820ec220e66eeb6e819f&exp=1787407888&sig=b86fdbc95b84d7e8900e58796a686f5d3ebdc5274afa2d9854bcf525352d36ae
 #EXTINF:-1 tvg-id="cct4欧洲咪咕" tvg-name="cct4欧洲咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cct4欧洲咪咕.png" group-title="☘️咪咕频道",cct4欧洲咪咕
 http://z.b.bkpcp.top/m.php?id=cctv4o
 #EXTINF:-1 tvg-id="cct4美洲咪咕" tvg-name="cct4美洲咪咕" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cct4美洲咪咕.png" group-title="☘️咪咕频道",cct4美洲咪咕
@@ -1589,6 +1595,8 @@ http://hlszymgsplive.miguvideo.com:8080/migu/kailu/hqly/51/20250915/index.m3u8?m
 https://hls-gateway.vpstv.net/streams/708971.m3u8
 #EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/国学频道.png" group-title="☘️IPTV特色频道",国学频道
 http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=769513315ca2ff7c4070527f1849a6fb&wsTime=1787292018
+#EXTINF:-1 tvg-id="国学频道" tvg-name="国学频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/国学频道.png" group-title="☘️IPTV特色频道",国学频道
+http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=6c4d9595059e29602d3fe2c4f1adba9b&wsTime=1787378338
 #EXTINF:-1 tvg-id="NewTV古装剧场" tvg-name="古装剧场" tvg-logo="https://epg.iill.top/logo/NewTV古装剧场.png" group-title="☘️IPTV特色频道",古装剧场
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="NewTV古装剧场" tvg-name="古装剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/古装剧场.png" group-title="☘️IPTV特色频道",古装剧场
