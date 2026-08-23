@@ -546,6 +546,12 @@
  # https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 # https://d.kstore.dev/download/12441/ds9.txt
 # https://d.kstore.dev/download/12441/ds9.txt
+# https://4key.cn/FP
+# https://live.zbds.org/tv/iptv4.txt
+# http://rihou.cc:555/gggg.nzk
+# https://4key.cn/FP
+# https://live.zbds.org/tv/iptv4.txt
+# http://rihou.cc:555/gggg.nzk
  https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
  https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
  https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u
@@ -578,7 +584,6 @@
  https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
  https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
  https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
- https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
  https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8
  https://raw.githubusercontent.com/tvbw/IPTV2025/refs/heads/main/live.txt
 https://live.hacks.tools/tv/iptv4.txt
@@ -618,12 +623,7 @@ https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 http://wangziduoqing.com/yuan/zb.txt
 https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 
-# https://4key.cn/FP
-# https://live.zbds.org/tv/iptv4.txt
-# http://rihou.cc:555/gggg.nzk
-# https://4key.cn/FP
-# https://live.zbds.org/tv/iptv4.txt
-# http://rihou.cc:555/gggg.nzk
+ # https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。

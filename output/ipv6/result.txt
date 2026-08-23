@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-22 14:21:29,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
+2026-08-23 14:04:15,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
 
 📺央视频道,#genre#
 CCTV-1 综合,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
@@ -450,6 +450,7 @@ BBC News,https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
 翡翠剧集台,http://cdn6.cc.cd/163189/tvbd
 翡翠剧集台,https://cdn6.cc.cd/163189/tvbd
 翡翠剧集台,https://cdn.qd.je/163189/tvbd
+黄金翡翠台,https://ktpremium.world/live/LT1976F/A9177/910935.ts
 TVB Plus,https://stream1.freetv.fun/tvb-j2-2.ctv
 TVB Plus,https://smt.1678520.xyz/163189/tvbp
 TVB Plus,http://r.jdshipin.com/Nr5jq
@@ -477,6 +478,8 @@ TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 港台电视 32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 HOY 资讯台,https://fast.hidns.vip/163189/hoy78
 HOY 资讯台,https://cdn.qd.je/163189/hoy78
+Now 爆谷台,https://ktpremium.world/live/LT1976F/A9177/958132.ts
+Now 星影台,https://ktpremium.world/live/LT1976F/A9177/958131.ts
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映频道,https://10.fast.hidns.vip/163189/typd/
 天映频道,http://o11.163189.xyz/stream/live/typd/
@@ -516,12 +519,16 @@ HOY 资讯台,https://cdn.qd.je/163189/hoy78
 民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
 民视台湾台,https://smart.dxjc.pp.ua/smart.php?id=ftvtaiwan_twn&token=tmxk
 民视台湾台,http://4gtv.cnlive.club/channel/nce5d867/index.m3u8?q=1782639885837
+民视台湾台,https://ktpremium.world/live/LT1976F/A9177/918589.ts
 民视第一台,https://hls-gateway.vpstv.net/streams/476243.m3u8
 民视第一台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 民视第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
+民视旅游台,https://ktpremium.world/live/LT1976F/A9177/918592.ts
 民视综艺台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
+民视综艺台,https://ktpremium.world/live/LT1976F/A9177/918590.ts
 公视台语台,https://smart.dxjc.pp.ua/smart.php?id=ctv2_twn&token=tmxk
 客家电视台,https://hls-gateway.vpstv.net/streams/476229.m3u8
+客家电视台,https://ktpremium.world/live/LT1976F/A9177/995282.ts
 大爱二台,https://hls-gateway.vpstv.net/streams/493133.m3u8
 TVBS 新闻台,https://smart.dxjc.pp.ua/smart.php?id=tvbs_n&token=tmxk
 TVBS 欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
@@ -530,6 +537,7 @@ TVBS 欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
 寰宇新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻台,https://smart.dxjc.pp.ua/smart.php?id=huanyuxinwen_twn&token=tmxk
 寰宇新闻台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
+寰宇新闻台,https://ktpremium.world/live/LT1976F/A9177/857803.ts
 寰宇财经台,https://smart.dxjc.pp.ua/smart.php?id=huanyutaiwan_twn&token=tmxk
 中天亞洲台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv109&token=xiatianshigou
 中天亞洲台,http://tv123.cc.cd/live.php?ch=2399&sid=6e74595f5d97521872bafb3c715e5413&exp=1787238227&sig=d484b20129a7fcc398acbb74d99ad55f1ac3820044455fda80646adb936d1e8a
@@ -578,6 +586,7 @@ TVBS 欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
 靖天电影台,https://cdn12.178.indevs.in/163189/jtdy
 靖天电影台,http://4gtv.cnlive.club/channel/3fcf6ae8/index.m3u8?q=1782639885837
 靖天电影台,https://cdn.qd.je/163189/jtdy
+靖天电影台,https://ktpremium.world/live/LT1976F/A9177/995222.ts
 靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1782639885837
 靖天日本台,http://4gtv.cnlive.club/channel/3f1816f7/index.m3u8?q=1784702901150
 靖天戲劇台,http://4gtv.cnlive.club/channel/3f07b409/index.m3u8?q=1782639885837
@@ -595,6 +604,7 @@ TVBS 欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
 纬来电影台,https://cdn.qd.je/163189/wldy
 纬来体育台,https://smt.1678520.xyz/163189/wlty
 纬来体育台,https://cdn.qd.je/163189/wlty
+纬来日本台,https://ktpremium.world/live/LT1976F/A9177/870550.ts
 博斯网球台,https://smart.dxjc.pp.ua/smart.php?id=bositennis_twn&token=tmxk
 采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1782639885837
 采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1784702901150
@@ -810,6 +820,7 @@ cct4美洲咪咕,http://z.b.bkpcp.top/m.php?id=cctv4m
 先锋乒羽,https://hls-gateway.vpstv.net/streams/708971.m3u8
 国学频道,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=769513315ca2ff7c4070527f1849a6fb&wsTime=1787292018
 国学频道,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=6c4d9595059e29602d3fe2c4f1adba9b&wsTime=1787378338
+国学频道,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=db542708b73db9d87144b118c444aef2&wsTime=1787464834
 古装剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=YanG-1989
 古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 古装剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8
@@ -858,6 +869,7 @@ cct4美洲咪咕,http://z.b.bkpcp.top/m.php?id=cctv4m
 宝宝动画,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288002/index.m3u8?channel-id=bestzb&Contentid=5000000011000288002&livemode=1&stbId=YanG-1989
 豬哥亮歌廳秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
 豬哥亮歌廳秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1784702901150
+豬哥亮歌廳秀,https://ktpremium.world/live/LT1976F/A9177/918599.ts
 家庭剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000008284/index.m3u8?channel-id=ystenlive&Contentid=1000000004000008284&livemode=1&stbId=YanG-1989
 家庭剧场,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225677/index.m3u8
 家庭剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
