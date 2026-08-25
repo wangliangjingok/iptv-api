@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-24 13:35:02,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
+2026-08-25 13:42:59,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
 
 📺央视频道,#genre#
 CCTV-1 综合,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
@@ -784,6 +784,7 @@ CGT法语咪咕,https://0472.org/hls/cgtnf.m3u8
 新片映厅咪咕,http://www.ikerobot.com:1234/619495952
 新片映厅咪咕,http://tv123.cc.cd/live.php?ch=2627&sid=6e74595f5d97521872bafb3c715e5413&exp=1787238227&sig=7c44a7149225e66f1a75b1c2798bf66316479d60712d6d318a99562823c57a98
 新片映厅咪咕,http://tv123.cc.cd/live.php?ch=2639&sid=e9ed6da76f31820ec220e66eeb6e819f&exp=1787407888&sig=b86fdbc95b84d7e8900e58796a686f5d3ebdc5274afa2d9854bcf525352d36ae
+新片映厅咪咕,http://tv123.cc.cd/live.php?ch=2623&sid=5b77f446889efba65ce76734d8734a21&exp=1787667310&sig=c2a1864d0dc628b99448c826ab2ac0d7d93cf66a6491abc76e41a44d8e4a3134
 cct4欧洲咪咕,http://z.b.bkpcp.top/m.php?id=cctv4o
 cct4美洲咪咕,http://z.b.bkpcp.top/m.php?id=cctv4m
 咪咕直播22,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
@@ -822,6 +823,7 @@ cct4美洲咪咕,http://z.b.bkpcp.top/m.php?id=cctv4m
 国学频道,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=6c4d9595059e29602d3fe2c4f1adba9b&wsTime=1787378338
 国学频道,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=db542708b73db9d87144b118c444aef2&wsTime=1787464834
 国学频道,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=f297288889d3204eeaf7977e7bad14ea&wsTime=1787551213
+国学频道,http://tvcdn.stream3.hndt.com/tv/647f9277018410008cf925e200000000_transios/playlist.m3u8?wsSecret=0641b71e4498128b7e55b5e3d53bd224&wsTime=1787637642
 古装剧场,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/2000000003000000024/index.m3u8?channel-id=hnbblive&Contentid=2000000003000000024&livemode=1&stbId=YanG-1989
 古装剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 古装剧场,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010004/1.m3u8
