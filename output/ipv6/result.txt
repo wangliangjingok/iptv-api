@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-09 17:46:23,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
+2026-09-10 18:01:03,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
 
 📺央视频道,#genre#
 CCTV-1 综合,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
@@ -160,6 +160,7 @@ CCTV-4欧洲,https://t.freetv.fun/live/cctv4ou-zhou-1.m3u8
 女性时尚,http://www.qfly9236.cn:8888/rtp/239.253.92.249:6103
 女性时尚,http://w.yao87.com:4022/rtp/239.76.254.55:9000
 女性时尚,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E5%A5%B3%E6%80%A7%E6%97%B6%E5%B0%9A
+女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/index.m3u8
 央视文化精品,https://hls-gateway.vpstv.net/streams/708832.m3u8
 央视文化精品,http://www.qfly9236.cn:8888/rtp/239.253.92.25:6104
 央视文化精品,http://w.yao87.com:4022/rtp/239.76.254.56:9000
@@ -679,6 +680,7 @@ Skysports Mix,https://smart.dxjc.pp.ua/smart.php?id=tiankongmix&token=tmxk
 爱尔达体育2台,https://smart.dxjc.pp.ua/smart.php?id=eltasport2_twn&token=tmxk
 爱尔达体育3台,https://smart.dxjc.pp.ua/smart.php?id=eltasport3_twn&token=tmxk
 Rugby Pass TV,https://smart.dxjc.pp.ua/smart.php?id=Rugbypasstv&token=tmxk
+Rugby Pass TV,https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
 RTM Sports HD,https://smart.dxjc.pp.ua/smart.php?id=Rtmsport&token=tmxk
 Arena,https://smart.dxjc.pp.ua/smart.php?id=Arena&token=tmxk
 Arena 2,https://smart.dxjc.pp.ua/smart.php?id=Arena2&token=tmxk
