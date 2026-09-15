@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-14 18:12:41,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
+2026-09-15 18:34:32,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
 
 📺央视频道,#genre#
 CCTV-1 综合,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
@@ -530,6 +530,8 @@ Now 星影台,https://ktpremium.world/live/LT1976F/A9177/958131.ts
 澳门卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
 澳亚卫视,https://stream1.freetv.fun/ao-ya-wei-shi-1.ctv
 澳亚卫视,http://cdn9.163189.xyz/live/as/stream.m3u8
+中视经典台,http://lax.dbm.cc.cd:8880/stream/1e55cc95-dd89-4404-b087-f88d603d3e56/playlist.m3u8
+中视新闻台,http://lax.dbm.cc.cd:8880/stream/4f09d90f-0209-4181-a6df-bfcb77ca129f/playlist.m3u8
 民视新闻台,https://smart.dxjc.pp.ua/smart.php?id=ftvnew_taiwan&token=tmxk
 民视新闻台,http://4gtv.cnlive.club/channel/nca14742/index.m3u8?q=1782639885837
 民视台湾台,https://hls-gateway.vpstv.net/streams/476244.m3u8
@@ -540,22 +542,28 @@ Now 星影台,https://ktpremium.world/live/LT1976F/A9177/958131.ts
 民视第一台,https://hls-gateway.vpstv.net/streams/476243.m3u8
 民视第一台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 民视第一台,http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1782639885837
+民视第一台,http://lax.dbm.cc.cd:8880/stream/9bcb89d7-fac5-4ae6-8ce7-f42ba33f3fea/playlist.m3u8
 民视旅游台,https://ktpremium.world/live/LT1976F/A9177/918592.ts
 民视综艺台,http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1782639885837
 民视综艺台,https://ktpremium.world/live/LT1976F/A9177/918590.ts
 公视台语台,https://smart.dxjc.pp.ua/smart.php?id=ctv2_twn&token=tmxk
 客家电视台,https://hls-gateway.vpstv.net/streams/476229.m3u8
 客家电视台,https://ktpremium.world/live/LT1976F/A9177/995282.ts
+客家电视台,http://lax.dbm.cc.cd:8880/stream/5c6900aa-30d8-479b-9928-efa8d44fe2fd/playlist.m3u8
+原住民族电视台,http://lax.dbm.cc.cd:8880/stream/ccdcd217-60e7-4128-a39f-69c7b1fab698/playlist.m3u8
 大爱二台,https://hls-gateway.vpstv.net/streams/493133.m3u8
+大爱二台,http://lax.dbm.cc.cd:8880/stream/f1677cdc-99e3-49d8-9c79-61642bd77f42/playlist.m3u8
 TVBS 新闻台,https://smart.dxjc.pp.ua/smart.php?id=tvbs_n&token=tmxk
 TVBS 欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
 中天新闻台,http://4gtv.cnlive.club/channel/3824d067/index.m3u8?q=1782639885837
 镜新闻台,https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/81c30c93-82df-49c9-975c-61a17204cbba/1.m3u8
+镜新闻台,http://lax.dbm.cc.cd:8880/stream/a46b49d9-1137-4498-866c-36c82e0651c6/playlist.m3u8
 寰宇新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻台,https://smart.dxjc.pp.ua/smart.php?id=huanyuxinwen_twn&token=tmxk
 寰宇新闻台,http://4gtv.cnlive.club/channel/n4da4274/index.m3u8?q=1782639885837
 寰宇新闻台,https://ktpremium.world/live/LT1976F/A9177/857803.ts
 寰宇财经台,https://smart.dxjc.pp.ua/smart.php?id=huanyutaiwan_twn&token=tmxk
+半岛国际新闻台,http://lax.dbm.cc.cd:8880/stream/30f12635-a421-4d88-8360-eee54c8f9c6a/playlist.m3u8
 中天亞洲台,http://clawcloud.goiptv.de5.net/litv.php?id=4gtv-4gtv109&token=xiatianshigou
 中天亞洲台,http://tv123.cc.cd/live.php?ch=2399&sid=6e74595f5d97521872bafb3c715e5413&exp=1787238227&sig=d484b20129a7fcc398acbb74d99ad55f1ac3820044455fda80646adb936d1e8a
 中天亞洲台,http://tv123.cc.cd/live.php?ch=2212&sid=6e74595f5d97521872bafb3c715e5413&exp=1787238227&sig=b901fc3bb7ead225d1c3cec640ce4733a9e64e47fdd9aaa6154dd2ed35888051
@@ -590,6 +598,7 @@ TVBS 欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
 八大精彩台,http://4gtv.cnlive.club/channel/6626a9ca/index.m3u8?q=1784702901150
 三立综合台,https://smart.dxjc.pp.ua/smart.php?id=sanlizhonghe&token=tmxk
 三立综合台,http://4gtv.cnlive.club/channel/45c7d3e3/index.m3u8?q=1782639885837
+三立综合台,http://lax.dbm.cc.cd:8880/stream/32bf35cc-197c-4a79-bce5-4002ed53317e/playlist.m3u8
 三立台湾台,https://hls-gateway.vpstv.net/streams/477050.m3u8
 三立台湾台,https://smart.dxjc.pp.ua/smart.php?id=sanlitaiwan&token=tmxk
 三立戏剧台,https://smart.dxjc.pp.ua/smart.php?id=sanlixiju_twn&token=tmxk
@@ -623,6 +632,7 @@ TVBS 欢乐台,https://smart.dxjc.pp.ua/smart.php?id=tvbshuanle_twn&token=tmxk
 纬来体育台,https://cdn.qd.je/163189/wlty
 纬来日本台,https://ktpremium.world/live/LT1976F/A9177/870550.ts
 博斯网球台,https://smart.dxjc.pp.ua/smart.php?id=bositennis_twn&token=tmxk
+博斯网球台,http://lax.dbm.cc.cd:8880/stream/c6ee19e5-e893-41e2-bac4-d03d6d59367b/playlist.m3u8
 采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1782639885837
 采昌影劇台,http://4gtv.cnlive.club/channel/n97ba44a/index.m3u8?q=1784702901150
 采昌影劇台,https://cdn.qd.je/163189/ccyj
@@ -882,6 +892,7 @@ cct4美洲咪咕,http://z.b.bkpcp.top/m.php?id=cctv4m
 猪哥亮歌厅秀,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv006&token=https://t.me/GPT_858
 猪哥亮歌厅秀,http://4gtv.cnlive.club/channel/n4271efdd/index.m3u8?q=1782639885837
 猪哥亮歌厅秀,https://test.946985.filegear-sg.me/proxy/988de8fc9a1ee44c
+时尚运动X,http://lax.dbm.cc.cd:8880/stream/9d1da939-bef3-4731-8265-3dbe97d8cece/playlist.m3u8
 经典香港电影,http://gslbmgsplive.miguvideo.com/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=3a30541f47ea589e64a7165cdb9389bf&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260714062126&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=47.92.23.141&SecurityKey=20260714062126&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=ea7ac7db083e616f87799edd50f02011&ddCalcu=1e1av07a2ab0caf70d5bd0d8e39e9671768f&sv=10004&ct=android
 经典香港电影,http://hlszymgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260714080218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20260714080218&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=d4854f0e145e45a8bd2ca04aabc011c0&sv=10004&ct=android
 经典香港电影,http://hlszymgsplive.miguvideo.com:8080/wd_r2/virtuallive/5100180869/150/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=800033&netType=0&sid=5500242089&pid=2028597139&timestamp=20260702160221&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=625703337&ParentNodeID=-99&assertID=5500242089&client_ip=171.8.79.254&SecurityKey=20260702160221&promotionId=&mvid=5100180869&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e157885f7ff5570e0dca591f817a007b&sv=10004&ct=android
