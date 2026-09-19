@@ -535,9 +535,8 @@ TVB Plus,https://smt.1678520.xyz/163189/tvbp
 极速港台2,#genre#,DE=3
 盗源狗si全家 全家下地狱
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
-翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
 翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8
-无线新闻,http://iactive-clink.com:8081/live/yifaTV-125.m3u8
+无线新闻,http://play.wenxiang.cn/live/yifaTV-125.flv
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
@@ -709,6 +708,33 @@ HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 美亚电影台国,https://play.wenxiang.cn/live/d15690a84b5ad631f11228268ba8dca8.flv
 港台电视31,http://play.wenxiang.cn/live/0f4b100c9ed81fdd547ba0a1a20dea49.flv
 港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
+
+翡翠台,http://139.159.231.220:6666/999/81zop/qq81.php?id=001
+TVBPLus,http://139.159.231.220:6666/999/81zop/qq81.php?id=002
+无线新闻,http://139.159.231.220:6666/999/81zop/qq81.php?id=003
+明珠台,http://139.159.231.220:6666/999/81zop/qq81.php?id=004
+POPC,http://139.159.231.220:6666/999/81zop/qq81.php?id=005
+中国电影,http://139.159.231.220:6666/999/81zop/qq81.php?id=006
+Thrill,http://139.159.231.220:6666/999/81zop/qq81.php?id=007
+天映经典,http://139.159.231.220:6666/999/81zop/qq81.php?id=008
+TVBS卫星,http://139.159.231.220:6666/999/81zop/qq81.php?id=009
+tvn,http://139.159.231.220:6666/999/81zop/qq81.php?id=010
+ROCK娱,http://139.159.231.220:6666/999/81zop/qq81.php?id=011
+ROCK综,http://139.159.231.220:6666/999/81zop/qq81.php?id=012
+ROCK极限,http://139.159.231.220:6666/999/81zop/qq81.php?id=013
+C18跑马,http://139.159.231.220:6666/999/81zop/qq81.php?id=014
+黄金翡翠,http://139.159.231.220:6666/999/81zop/qq81.php?id=015
+千禧经典,http://139.159.231.220:6666/999/81zop/qq81.php?id=016
+亚洲剧,http://139.159.231.220:6666/999/81zop/qq81.php?id=017
+华语剧,http://139.159.231.220:6666/999/81zop/qq81.php?id=018
+KIX,http://139.159.231.220:6666/999/81zop/qq81.php?id=019
+娱乐新闻,http://139.159.231.220:6666/999/81zop/qq81.php?id=020
+黄金华剧,http://139.159.231.220:6666/999/81zop/qq81.php?id=021
+MYFREE,http://139.159.231.220:6666/999/81zop/qq81.php?id=022
+戏曲台,http://139.159.231.220:6666/999/81zop/qq81.php?id=023
+粤语片,http://139.159.231.220:6666/999/81zop/qq81.php?id=024
+美亚粤,http://139.159.231.220:6666/999/81zop/qq81.php?id=025
+美亚国,http://139.159.231.220:6666/999/81zop/qq81.php?id=026
 
 美国UA(挂梯子),#genre# 
 CGTN,https://english-livebkali.cgtn.com/live/encgtn_1.m3u8
