@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-21 18:51:02,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
+2026-09-22 19:01:10,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
 
 📺央视频道,#genre#
 CCTV-1 综合,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
@@ -1188,6 +1188,7 @@ iHOT爱幼教,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000000
 劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=05144ee4526abc2f6a8d44a41f9e078ef10c1a9f8930d51d7f453315d3577b613eac76898b1e0965789f7010cd3f8a1bca3167ef6e625cb77fc2c575eec35c8d07aaff61dc4b79f75fc67ef667
 劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
 劲爆体育,http://m.061899.xyz/mg/jbty
+劲爆体育,http://t.061899.xyz/tl/tl.php?id=jbty
 魅力足球,https://hls-gateway.vpstv.net/streams/708839.m3u8
 魅力足球,https://stream1.freetv.fun/ipv6-mei-li-zu-qiu-4.m3u8
 魅力足球,https://stream1.freetv.fun/mei-li-zu-qiu-1.m3u8
@@ -1197,6 +1198,7 @@ iHOT爱幼教,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000000
 金色学堂,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
 金色学堂,http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82
 新视觉,http://gat.bkpcp.top/ymg.php?id=mlzq
+新视觉,http://t.061899.xyz/tl/dq.php?id=mlzq
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 动漫秀场,https://stream1.freetv.fun/dong-man-xiu-chang-11.m3u8
@@ -1210,12 +1212,14 @@ iHOT爱幼教,http://[2409:8087:5e08:24::11]:6610/000000001000/20000000040000000
 乐游,https://hls-gateway.vpstv.net/streams/708840.m3u8
 乐游,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
 乐游,http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E4%B9%90%E6%B8%B8
+乐游,http://t.061899.xyz/tl/tl.php?id=ly
 游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=4bb23a171d4d63d4362dfba9a795c0f4ae95e2190f17a502e900947df23bda8e7a18b21aa9e6b578071ed4ced654a44a80d0fb8970ac8330432d19255fb721f3c1ee552fa186e2c9427e18e082
 游戏风云,https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8
 游戏风云,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002024/index.m3u8?IASHttpSessionId=
 七彩戏剧,http://z.b.bkpcp.top/m.php?id=qcxj
+七彩戏剧,http://t.061899.xyz/tl/tl.php?id=qcxj
 
 ☘️江苏频道,#genre#
 江苏城市频道,http://hlszymgsplive.miguvideo.com:8080/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20260714160212&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=171.8.79.254&SecurityKey=20260714160212&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f3eb469f411f8b9254172feb4f8edda0&sv=10004&ct=android

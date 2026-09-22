@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://ghp.keleyaa.com/https://raw.githubusercontent.com/wangliangjingok/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-09-21 18:51:02
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="🕘️更新时间",2026-09-22 19:01:10
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1 综合" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1 综合.png" group-title="📺央视频道",CCTV-1 综合
 http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
@@ -2317,6 +2317,8 @@ https://www.freetv.top/migu/796071336.m3u8?migutoken=05144ee4526abc2f6a8d44a41f9
 http://z.b.bkpcp.top/m.php?id=jbty
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/劲爆体育.png" group-title="☘️上海频道",劲爆体育
 http://m.061899.xyz/mg/jbty
+#EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/劲爆体育.png" group-title="☘️上海频道",劲爆体育
+http://t.061899.xyz/tl/tl.php?id=jbty
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="☘️上海频道",魅力足球
 https://hls-gateway.vpstv.net/streams/708839.m3u8
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/魅力足球.png" group-title="☘️上海频道",魅力足球
@@ -2335,6 +2337,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/1.m3u8
 http://www.kooca.cn:5140/%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新视觉.png" group-title="☘️上海频道",新视觉
 http://gat.bkpcp.top/ymg.php?id=mlzq
+#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新视觉.png" group-title="☘️上海频道",新视觉
+http://t.061899.xyz/tl/dq.php?id=mlzq
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="☘️上海频道",动漫秀场
 https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="☘️上海频道",动漫秀场
@@ -2361,6 +2365,8 @@ https://hls-gateway.vpstv.net/streams/708840.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://www.xn--rgv465a.top/tvlogo/乐游.png" group-title="☘️上海频道",乐游
 http://www.kooca.cn:5140/%E6%95%B0%E5%AD%97%E9%A2%91%E9%81%93/%E4%B9%90%E6%B8%B8
+#EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://www.xn--rgv465a.top/tvlogo/乐游.png" group-title="☘️上海频道",乐游
+http://t.061899.xyz/tl/tl.php?id=ly
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://www.xn--rgv465a.top/tvlogo/游戏风云.png" group-title="☘️上海频道",游戏风云
 https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://www.xn--rgv465a.top/tvlogo/游戏风云.png" group-title="☘️上海频道",游戏风云
@@ -2373,6 +2379,8 @@ https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002024/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/七彩戏剧.png" group-title="☘️上海频道",七彩戏剧
 http://z.b.bkpcp.top/m.php?id=qcxj
+#EXTINF:-1 tvg-id="七彩戏剧" tvg-name="七彩戏剧" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/七彩戏剧.png" group-title="☘️上海频道",七彩戏剧
+http://t.061899.xyz/tl/tl.php?id=qcxj
 #EXTINF:-1 tvg-id="江苏城市频道" tvg-name="江苏城市频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏城市频道.png" group-title="☘️江苏频道",江苏城市频道
 http://hlszymgsplive.miguvideo.com:8080/wd_r2/jstv/jschengshi/600/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=699067&netType=0&sid=5500260508&pid=2028597139&timestamp=20260714160212&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=626064714&ParentNodeID=-99&assertID=5500260508&client_ip=171.8.79.254&SecurityKey=20260714160212&promotionId=&mvid=5100186409&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f3eb469f411f8b9254172feb4f8edda0&sv=10004&ct=android
 #EXTINF:-1 tvg-id="江苏城市频道" tvg-name="江苏城市频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/江苏城市频道.png" group-title="☘️江苏频道",江苏城市频道
