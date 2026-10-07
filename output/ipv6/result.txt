@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-06 20:03:12,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
+2026-10-07 19:07:13,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
 
 📺央视频道,#genre#
 CCTV-1 综合,http://gslbmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/index.m3u8?msisdn=3f735c028faf5d244f93f6ce39115c3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260710152039&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=39.103.182.111&SecurityKey=20260710152039&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&puData=dcf37fe7deacdf1875fa92dbc1f92fa1&ddCalcu=1dacvffa23y97aff1ec7bdde2a9cadff5178&sv=10004&ct=android
@@ -327,6 +327,7 @@ CHC 影迷电影,http://go.bkpcp.top/mg/ymdy
 广东卫视4K,http://www.ljun.cc:4022/rtp/239.3.1.203:2000
 广东卫视4K,http://itv.smaccs.site:38090/4K/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K
 广东卫视4K,http://itv.smaccs.site:38090/4K/%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%864K/2
+广东卫视4K,https://live.chinacert.cftest5.cn/zgst/live/guangdong4k
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
@@ -395,6 +396,7 @@ CHC 影迷电影,http://go.bkpcp.top/mg/ymdy
 深圳卫视4K,http://www.ljun.cc:4022/rtp/239.3.1.202:2000
 深圳卫视4K,http://itv.smaccs.site:38090/4K/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K/2
 深圳卫视4K,http://itv.smaccs.site:38090/4K/%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%864K
+深圳卫视4K,https://live.chinacert.cftest5.cn/zgst/live/shenzhen4k
 厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 厦门卫视,http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226695/1.m3u8
 厦门卫视,https://iptv.catvod.com/catvod.php?id=xmws

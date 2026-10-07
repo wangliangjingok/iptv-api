@@ -555,6 +555,7 @@
  # https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 # https://t.freetv.fun/m3u/china_original.txt
 # https://t.freetv.fun/m3u/china_original.txt
+# https://chuxinya.top/f/2xLkt8/12.28%E9%A3%9E%E6%89%AC%E7%9B%B4%E6%92%AD.txt
  https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
  https://raw.githubusercontent.com/jn950/live/refs/heads/main/tv/pllive.txt
  https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u
@@ -605,7 +606,6 @@ https://tmxk.pp.ua/smart-cn.m3u
 http://1.94.31.214/live/live9/dgtv.txt
 http://117.72.68.25:9230/latest.txt
 http://west.shaonv.me/tvbox/live.txt
-https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 https://gitee.com/blbj778/blb778iptv/raw/master/live.txt
 https://gitee.com/king12985/tv/raw/master/lives/20180818.txt
 https://gitee.com/lwr851/live/raw/master/iptv.m3u
@@ -619,11 +619,11 @@ https://tmxk.pp.ua/smart-cn.m3u
 http://1.94.31.214/live/live9/dgtv.txt
 http://117.72.68.25:9230/latest.txt
 http://west.shaonv.me/tvbox/live.txt
-https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 http://wangziduoqing.com/yuan/zb.txt
 https://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt
 
-# https://chuxinya.top/f/2xLkt8/12.28%E9%A3%9E%E6%89%AC%E7%9B%B4%E6%92%AD.txt
+# https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
+# https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
